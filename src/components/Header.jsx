@@ -14,9 +14,10 @@ function Header() {
             <Nav>
                <Nav.Link  href="/">Home</Nav.Link>
                <Nav.Link  href="/Products">Products</Nav.Link>
+               <Nav.Link  href="/Customers">Customers</Nav.Link>
                <Nav.Link  href="/Login">SignIn</Nav.Link> 
                <Nav.Link  href="/Signup">SignUp</Nav.Link> 
-               <Nav.Link  href="/Customers">Customers</Nav.Link> 
+                
               </Nav>
           </Navbar.Collapse>
         </Container>
